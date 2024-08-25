@@ -1,6 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#UI Clone Practice
+
+#Description
+
+This project is a practice clone of the UI of Dukaan website. It was created to improve my skills in HTML, CSS,JavaScript,TailwindCSS and ReactJS.
+
+It is an practice of cohort 2.0 for improving the TailwindCSS.
 
 Currently, two official plugins are available:
 
