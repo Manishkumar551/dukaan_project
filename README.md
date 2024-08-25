@@ -1,8 +1,8 @@
 # React + Vite
 
-#UI Clone Practice
+UI Clone Practice
 
-#Description
+Description
 
 This project is a practice clone of the UI of Dukaan website. It was created to improve my skills in HTML, CSS,JavaScript,TailwindCSS and ReactJS.
 
